@@ -10,3 +10,6 @@ body{
     left: 700px;
     top: 200px;
 }
+img{
+    cursor: pointer;
+}
