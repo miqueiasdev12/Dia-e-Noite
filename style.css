@@ -1,0 +1,12 @@
+body{
+    background-image: url("imagens-e-gifs-do-ceu-estrelado-18.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box{
+    position: absolute;
+    width: auto;
+    height: 200px;
+    left: 700px;
+    top: 200px;
+}
