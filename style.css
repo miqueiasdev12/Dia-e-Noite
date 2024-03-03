@@ -13,3 +13,14 @@ body{
 img{
     cursor: pointer;
 }
+@media screen and (max-width:450px) {
+    body{
+        background-image: url("imagens-e-gifs-do-ceu-estrelado-18.gif");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+    img{
+        position: absolute;
+        right: 400px;
+    }
+}
